@@ -1,0 +1,19 @@
+.suggestions {
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #ccc;
+  }
+  .suggestions button {
+    padding: 5px 15px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .suggestions button:hover {
+    background-color: #45a049;
+  }
+  
