@@ -26,7 +26,6 @@ A smart, AI-powered chatbot built to assist students in resolving their issues e
 - **Backend**: Node.js, Express.js
 - **AI Integration**: Google AI Studio API
 - **Database**: MongoDB
-- **Deployment**: [Your deployment platform, e.g., Heroku, Vercel, AWS, etc.]
 
 ---
 
@@ -41,7 +40,7 @@ StudyBuddy-ChatBot/
 │   ├── App.js         # Main App entry point
 │   └── index.js       # React entry point
 ├── backend/
-|   ├── .env               # Environment variables
+|   ├── .env           # Environment variables
 │   ├── server.js/ 
 ├── package.json       # Project dependencies
 └── README.md          # Project documentation
