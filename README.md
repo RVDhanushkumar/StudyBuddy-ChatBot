@@ -4,6 +4,10 @@
 
 A smart, AI-powered chatbot built to assist students in resolving their issues effectively. StudyBuddy leverages advanced technologies, including **React**, **Google AI Studio API**, **Node.js**, **Express.js**, and more, to provide a seamless user experience.
 
+![image](https://github.com/user-attachments/assets/5d0b26d7-3001-4d56-ba34-0819f595e6e9)
+![image](https://github.com/user-attachments/assets/6200fd1e-3051-40f3-9078-62e8af7fd01c)
+
+
 ---
 
 ## 🚀 Features
@@ -118,7 +122,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **R V Dhanush Kumar**  
-[GitHub](https://github.com/RVDhanushkumar) | [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/dhanush-awesome/))
+[GitHub](https://github.com/RVDhanushkumar) | [LinkedIn](https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/dhanush-awesome/))
 
 ---
 
