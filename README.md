@@ -82,7 +82,7 @@ StudyBuddy-ChatBot/
    npm start
 
    # Start the frontend server
-   cd ../client
+   cd ../studybuddy
    npm start
    ```
 
