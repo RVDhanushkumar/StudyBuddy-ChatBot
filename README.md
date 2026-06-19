@@ -59,7 +59,7 @@ StudyBuddy-ChatBot/
 2. **Install Dependencies**
    ```bash
    # Install frontend dependencies
-   cd client
+   cd studyBuddy
    npm install
 
    # Install backend dependencies
